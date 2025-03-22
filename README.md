@@ -31,7 +31,7 @@ How the Analysis Works
 Understanding the Visuals
 
 1. Indicates potential bearish reversals.
-2. Indiicates potential bullish reversals.
+2. Indicates potential bullish reversals.
 3. Extreme positions typically signal contrarian opportunities.
    
 
